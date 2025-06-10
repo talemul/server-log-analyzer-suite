@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 📊 Server Log Analyzer Suite
 
 A collection of Python-based tools to analyze NGINX, Apache, MySQL slow query logs, and server health — with optional real-time alerts via Telegram or email.
