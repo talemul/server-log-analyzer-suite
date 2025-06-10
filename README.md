@@ -93,4 +93,3 @@ MIT License
 =======
 # server-log-analyzer-suite
 A Python toolkit for analyzing server logs, detecting performance bottlenecks, and sending alerts via Telegram and email.
->>>>>>> d45d3696dbaaacce913fe30c8aabc736de00dcf9
